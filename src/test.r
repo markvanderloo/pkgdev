@@ -1,4 +1,4 @@
-#!/bin/Rscript
+#!/usr/bin/Rscript
 
 devtools::test('pkg')
 
